@@ -1,0 +1,7 @@
+out/*
+target/*
+SS/*
+src/main/resources/*
+merchant.png
+MapReduce.iml
+.idea
